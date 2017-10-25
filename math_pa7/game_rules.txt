@@ -1,0 +1,14 @@
+GAME RULES:
+1. There are five different levels of the game, each
+   with 10 questions each.
+2. The levels get progressively more difficult. Start
+   easy & master the basic skills before you move on!
+3. Beware: you lose points for wrong answers, but gain
+   points for correct answers.
+4. Within a level, as you get more answers correct, the
+   questions will become slightly more difficult.
+5. The division in this program will be done by computer
+   "integer division," which truncates the result. This
+   means that the result is rounded down. By this logic,
+   2 / 3 = 0 and 10 / 6 = 1, as examples.
+6. HAVE FUN!!! :)

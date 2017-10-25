@@ -1,0 +1,13 @@
+*       *      *     * * * * *  *     *
+* *   * *     * *        *      *     *
+*   *   *    *   *       *      * * * *
+*       *   * * * *      *      *     *
+*       *  *       *     *      *     *
+
+Welcome to Educational Math Program *EMP for short*.
+
+EMP is designed to help you learn math! In the program,
+you may work your way through a series of quizzes designed
+to help you improve your foundational math skills. These 
+skills include addition, subtraction, multiplication,
+division, and order of operations.
